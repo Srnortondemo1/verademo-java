@@ -71,4 +71,4 @@ To run the container for local development run this:
 
 Then register as a new user and add some feeds
 
-10/1/2026.1
+10/15/2026
